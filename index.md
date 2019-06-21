@@ -111,7 +111,7 @@
    ![22](https://raw.githubusercontent.com/HuangWenJ/PicBed/master/img/22.jpg)
 
 7. 数据科学与大数据技术导论	全新	12元
-d
+
    ![](https://raw.githubusercontent.com/HuangWenJ/PicBed/master/img/23.jpg)
 
 8. 高性能分布式计算系统开发与实现	未拆封	12元
