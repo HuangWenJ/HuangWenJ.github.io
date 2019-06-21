@@ -14,7 +14,7 @@
 ![money](https://raw.githubusercontent.com/HuangWenJ/PicBed/master/img/money.jpg)
 ## 计算机课程所需教程
 
-1. 算法导论  九成新  15元
+1. 算法导论  九成新  15元  (已出)
 
    ![1.jpg](https://i.loli.net/2019/06/21/5d0c3c305176156783.jpg)
 
@@ -38,7 +38,7 @@
 
    ![4.jpg](https://i.loli.net/2019/06/21/5d0c3c3051a0883992.jpg)
 
-5. 离散数学及其应用	八成新	15元
+5. 离散数学及其应用	八成新	15元  (已出)
 
    <!-- ![5](https://raw.githubusercontent.com/HuangWenJ/PicBed/master/img/5.jpg) -->
 
@@ -92,7 +92,7 @@
 
     ![](https://i.loli.net/2019/06/21/5d0c3dfbe1e7045592.jpg)
 
-14. 数据结构	六成新	8元
+14. 数据结构	六成新	8元  (已出)
 
     <!-- ![14](https://raw.githubusercontent.com/HuangWenJ/PicBed/master/img/14.jpg) -->
 
@@ -178,7 +178,7 @@
 
    ![](https://i.loli.net/2019/06/21/5d0c3e578a1d540117.jpg)
 
-11. Java语言程序设计基础篇影印本	八成新	8元
+11. Java语言程序设计基础篇影印本	八成新	8元  (已出)
 
     <!-- ![27](https://raw.githubusercontent.com/HuangWenJ/PicBed/master/img/27.jpg) -->
 
